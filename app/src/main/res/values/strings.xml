@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">Popular Movies - Stage 2 - Bergamini</string>
+
+    <string name="action_sort_by_pop">Sort by popularity</string>
+    <string name="action_sort_flag_pop">p</string>
+    <string name="action_sort_flag_pop_toast">Movies are now sorted by popularity</string>
+
+    <string name="action_sort_by_rating">Sort by rating</string>
+    <string name="action_sort_flag_rating">r</string>
+    <string name="action_sort_flag_rating_toast">Movies are now sorted by rating</string>
+
+    <string name="action_show_fav">Show favourites</string>
+    <string name="action_sort_flag_fav">f</string>
+    <string name="action_show_fav_toast">Showing favourite movies</string>
+
+    <string name="movie_poster_content_description">Movie poster image</string>
+
+    <string name="film_object_label">Film</string>
+
+    <string name="some_random_placeholder_text">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+
+
+    <!--    BUTTONS    -->
+
+    <string name="button_watch_trailer">Watch trailer</string>
+    <string name="button_read_reviews">Read reviews</string>
+
+
+    <!--    MOVIE DB STRINGS    -->
+
+    <string name="API_KEY">REPLACE_WITH_YOUR_OWN_KEY</string>
+
+    <string name="POSTER_IMAGE_SIZE">w185</string>
+    <string name="POSTER_BASE_URL">http://image.tmdb.org/t/p/</string>
+
+    <string name="MOVIE_DB_BASE_URL">https://api.themoviedb.org/</string>
+    <string name="MOVIE_DB_API_V">3</string>
+    <string name="MOVIE_DB_LANG">en-US</string>
+
+    <string name="POPULAR_MOVIES_ENDPOINT">/movie/popular</string>
+    <string name="MOVIE_ENDPOINT">/movie</string>
+
+    <string name="REVIEWS_PATH">reviews</string>
+    <string name="VIDEOS_PATH">videos</string>
+
+    <!--    ERRORS    -->
+
+    <string name="error_message_generic">Failed to get results. Please try again!</string>
+    <string name="no_trailers">No trailers are yet available for this movie</string>
+    <string name="no_reviews">No reviews are yet available for this movie</string>
+
+</resources>
